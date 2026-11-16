@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2nadq5t8e3dl"
-path="res://.godot/imported/Hit (32x32).png-a8a9cedb19b2adbfac7948e8e3202eff.ctex"
+path="res://.godot/imported/Hit (32x32).png-ef4c6a708a29091dec9a53bea125ba76.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Main Characters/Pink Man/Hit (32x32).png"
-dest_files=["res://.godot/imported/Hit (32x32).png-a8a9cedb19b2adbfac7948e8e3202eff.ctex"]
+source_file="res://Main Characters/Pink Man/Hit (32x32).png"
+dest_files=["res://.godot/imported/Hit (32x32).png-ef4c6a708a29091dec9a53bea125ba76.ctex"]
 
 [params]
 

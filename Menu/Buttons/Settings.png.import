@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7lrqgfgrmnq"
-path="res://.godot/imported/Settings.png-19b7fab3944bb6f1c34cd740ffb00105.ctex"
+path="res://.godot/imported/Settings.png-fd7b05ecf7ab02ddc8672b1262fb0500.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Menu/Buttons/Settings.png"
-dest_files=["res://.godot/imported/Settings.png-19b7fab3944bb6f1c34cd740ffb00105.ctex"]
+source_file="res://Menu/Buttons/Settings.png"
+dest_files=["res://.godot/imported/Settings.png-fd7b05ecf7ab02ddc8672b1262fb0500.ctex"]
 
 [params]
 

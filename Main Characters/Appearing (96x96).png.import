@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtgiikut40gr5"
-path="res://.godot/imported/Appearing (96x96).png-44a7780944489abf558ad884fad3a2e2.ctex"
+path="res://.godot/imported/Appearing (96x96).png-9d8ef2ab18ab454f08c82ae2ff6f0bf3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Main Characters/Appearing (96x96).png"
-dest_files=["res://.godot/imported/Appearing (96x96).png-44a7780944489abf558ad884fad3a2e2.ctex"]
+source_file="res://Main Characters/Appearing (96x96).png"
+dest_files=["res://.godot/imported/Appearing (96x96).png-9d8ef2ab18ab454f08c82ae2ff6f0bf3.ctex"]
 
 [params]
 

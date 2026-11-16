@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://p5fbj2ebh4mo"
-path="res://.godot/imported/20.png-6c8397cd3bf7a86f1cb461032f12bb86.ctex"
+path="res://.godot/imported/20.png-35ed1e69349143c780ac9e03cd9ad644.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Menu/Levels/20.png"
-dest_files=["res://.godot/imported/20.png-6c8397cd3bf7a86f1cb461032f12bb86.ctex"]
+source_file="res://Menu/Levels/20.png"
+dest_files=["res://.godot/imported/20.png-35ed1e69349143c780ac9e03cd9ad644.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://peih1qpfpsid"
-path="res://.godot/imported/Green.png-d1380be00e7940323d35d6ad80b786dd.ctex"
+path="res://.godot/imported/Green.png-da8cc91b67c828a038ab252e068013df.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Background/Green.png"
-dest_files=["res://.godot/imported/Green.png-d1380be00e7940323d35d6ad80b786dd.ctex"]
+source_file="res://Background/Green.png"
+dest_files=["res://.godot/imported/Green.png-da8cc91b67c828a038ab252e068013df.ctex"]
 
 [params]
 

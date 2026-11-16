@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dig768nb6f6v0"
-path="res://.godot/imported/Terrain (16x16).png-212aee0356c2b47aab04a769fb74ebdc.ctex"
+path="res://.godot/imported/Terrain (16x16).png-24e4971e97cc417566882d4f2d3fe45b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Terrain/Terrain (16x16).png"
-dest_files=["res://.godot/imported/Terrain (16x16).png-212aee0356c2b47aab04a769fb74ebdc.ctex"]
+source_file="res://Terrain/Terrain (16x16).png"
+dest_files=["res://.godot/imported/Terrain (16x16).png-24e4971e97cc417566882d4f2d3fe45b.ctex"]
 
 [params]
 

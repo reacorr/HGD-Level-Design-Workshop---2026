@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgi804xy1qs1o"
-path="res://.godot/imported/Grey Off.png-825a72e41a960a060158d8067982f392.ctex"
+path="res://.godot/imported/Grey Off.png-006402520229a8f15b597ff6a3b9b028.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Traps/Platforms/Grey Off.png"
-dest_files=["res://.godot/imported/Grey Off.png-825a72e41a960a060158d8067982f392.ctex"]
+source_file="res://Traps/Platforms/Grey Off.png"
+dest_files=["res://.godot/imported/Grey Off.png-006402520229a8f15b597ff6a3b9b028.ctex"]
 
 [params]
 

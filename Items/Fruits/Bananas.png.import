@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c588wuf2r8bpi"
-path="res://.godot/imported/Bananas.png-7512ba087b37b9fc475b6ae6c6056979.ctex"
+path="res://.godot/imported/Bananas.png-04893cc6842d51a019e14f335195db24.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Items/Fruits/Bananas.png"
-dest_files=["res://.godot/imported/Bananas.png-7512ba087b37b9fc475b6ae6c6056979.ctex"]
+source_file="res://Items/Fruits/Bananas.png"
+dest_files=["res://.godot/imported/Bananas.png-04893cc6842d51a019e14f335195db24.ctex"]
 
 [params]
 

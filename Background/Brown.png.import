@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://18kqsjpcb4sk"
-path="res://.godot/imported/Brown.png-95ebc5f15b92a3c00e7e005f733625e1.ctex"
+path="res://.godot/imported/Brown.png-336d53399dee2be754c38588867f0637.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Background/Brown.png"
-dest_files=["res://.godot/imported/Brown.png-95ebc5f15b92a3c00e7e005f733625e1.ctex"]
+source_file="res://Background/Brown.png"
+dest_files=["res://.godot/imported/Brown.png-336d53399dee2be754c38588867f0637.ctex"]
 
 [params]
 
