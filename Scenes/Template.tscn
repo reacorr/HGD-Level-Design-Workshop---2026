@@ -1,0 +1,14 @@
+[gd_scene format=4 uid="uid://brjlwj65i5fwh"]
+
+[ext_resource type="TileSet" uid="uid://kjaylnpfa6ox" path="res://ExampleTileSet.tres" id="1_owgms"]
+[ext_resource type="PackedScene" uid="uid://c43fpm73574px" path="res://Scenes/player.tscn" id="2_excnn"]
+
+[node name="Node2D" type="Node2D" unique_id=1397578621]
+
+[node name="TileMapLayer" type="TileMapLayer" parent="." unique_id=1363928409]
+texture_filter = 1
+tile_map_data = PackedByteArray("AAAEAAMACAAGAAAAAAAFAAMACAAHAAAAAAAGAAMACAAIAAAAAAAFAAQACAAHAAEAAAAFAAUACAAHAAIAAAAGAAQACAAIAAEAAAAGAAUACAAIAAIAAAAEAAQACAAGAAEAAAAEAAUACAAGAAIAAAAHAAAACAARAAEAAAAIAAAACAASAAEAAAAJAAAACAATAAEAAAA=")
+tile_set = ExtResource("1_owgms")
+
+[node name="Node2D" parent="." unique_id=485263893 instance=ExtResource("2_excnn")]
+position = Vector2(-268, -204)
