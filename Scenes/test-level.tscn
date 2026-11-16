@@ -1,12 +1,13 @@
 [gd_scene format=3 uid="uid://djifbcxbn7i3a"]
 
-[ext_resource type="Texture2D" uid="uid://b3by0cwlohiis" path="res://Background/Purple.png" id="1_6gox0"]
+[ext_resource type="Texture2D" uid="uid://b3by0cwlohiis" path="res://Assets/Background/Purple.png" id="1_6gox0"]
 [ext_resource type="Texture2D" uid="uid://ovv8jhrq3df7" path="res://Main Characters/Ninja Frog/Fall (32x32).png" id="2_nhhr2"]
-[ext_resource type="Texture2D" uid="uid://6majteykdnv4" path="res://Items/Boxes/Box1/Idle.png" id="3_h3xpa"]
-[ext_resource type="Texture2D" uid="uid://dbqlysvsa34lh" path="res://Items/Fruits/Melon.png" id="4_6k30b"]
-[ext_resource type="Texture2D" uid="uid://ohe7mnje3qnl" path="res://Background/Blue.png" id="5_6k30b"]
-[ext_resource type="Texture2D" uid="uid://18kqsjpcb4sk" path="res://Background/Brown.png" id="6_b82tr"]
-[ext_resource type="Texture2D" uid="uid://dig768nb6f6v0" path="res://Terrain/Terrain (16x16).png" id="7_klyx5"]
+[ext_resource type="Texture2D" uid="uid://6majteykdnv4" path="res://Assets/Items/Boxes/Box1/Idle.png" id="3_h3xpa"]
+[ext_resource type="Texture2D" uid="uid://dbqlysvsa34lh" path="res://Assets/Items/Fruits/Melon.png" id="4_6k30b"]
+[ext_resource type="Texture2D" uid="uid://ohe7mnje3qnl" path="res://Assets/Background/Blue.png" id="5_6k30b"]
+[ext_resource type="Texture2D" uid="uid://18kqsjpcb4sk" path="res://Assets/Background/Brown.png" id="6_b82tr"]
+[ext_resource type="Texture2D" uid="uid://dig768nb6f6v0" path="res://Assets/Terrain/Terrain (16x16).png" id="7_klyx5"]
+
 
 [node name="Node2D" type="Node2D" unique_id=1867207041]
 
