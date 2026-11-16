@@ -199,3 +199,7 @@ animation = &"Idle"
 autoplay = "Idle"
 frame = 4
 frame_progress = 0.16689973
+
+[node name="Camera2D" type="Camera2D" parent="Player" unique_id=1103125962]
+position = Vector2(356, 229)
+zoom = Vector2(2, 2)
