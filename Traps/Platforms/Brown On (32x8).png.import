@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vi2rui0b6vqw"
-path="res://.godot/imported/Brown On (32x8).png-4dfe5439d6182f3adb7e2ba808d8b80a.ctex"
+path="res://.godot/imported/Brown On (32x8).png-c24279049289b49e2b8fa6a365267fc2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Traps/Platforms/Brown On (32x8).png"
-dest_files=["res://.godot/imported/Brown On (32x8).png-4dfe5439d6182f3adb7e2ba808d8b80a.ctex"]
+source_file="res://Traps/Platforms/Brown On (32x8).png"
+dest_files=["res://.godot/imported/Brown On (32x8).png-c24279049289b49e2b8fa6a365267fc2.ctex"]
 
 [params]
 

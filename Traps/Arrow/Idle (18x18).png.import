@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqg1yt8pvhvw"
-path="res://.godot/imported/Idle (18x18).png-0127c011cfb8de4eb70943790135b513.ctex"
+path="res://.godot/imported/Idle (18x18).png-5a23587871d500d983d60da90e97abea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Traps/Arrow/Idle (18x18).png"
-dest_files=["res://.godot/imported/Idle (18x18).png-0127c011cfb8de4eb70943790135b513.ctex"]
+source_file="res://Traps/Arrow/Idle (18x18).png"
+dest_files=["res://.godot/imported/Idle (18x18).png-5a23587871d500d983d60da90e97abea.ctex"]
 
 [params]
 

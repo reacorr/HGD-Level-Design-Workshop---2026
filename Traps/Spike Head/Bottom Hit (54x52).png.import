@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pka5lpfw3fmi"
-path="res://.godot/imported/Bottom Hit (54x52).png-0ea3f1e3c0929f259c9f28245309738c.ctex"
+path="res://.godot/imported/Bottom Hit (54x52).png-056b76bf478d71b01d8657b6c02203da.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Traps/Spike Head/Bottom Hit (54x52).png"
-dest_files=["res://.godot/imported/Bottom Hit (54x52).png-0ea3f1e3c0929f259c9f28245309738c.ctex"]
+source_file="res://Traps/Spike Head/Bottom Hit (54x52).png"
+dest_files=["res://.godot/imported/Bottom Hit (54x52).png-056b76bf478d71b01d8657b6c02203da.ctex"]
 
 [params]
 

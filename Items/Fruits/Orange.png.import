@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnsmen07bcnou"
-path="res://.godot/imported/Orange.png-84dacd81be3fd986f528a0a137581f7c.ctex"
+path="res://.godot/imported/Orange.png-45e8f7689dace9ae0a13ab75905498da.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Items/Fruits/Orange.png"
-dest_files=["res://.godot/imported/Orange.png-84dacd81be3fd986f528a0a137581f7c.ctex"]
+source_file="res://Items/Fruits/Orange.png"
+dest_files=["res://.godot/imported/Orange.png-45e8f7689dace9ae0a13ab75905498da.ctex"]
 
 [params]
 

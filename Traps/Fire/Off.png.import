@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://n4riw8dwu7xj"
-path="res://.godot/imported/Off.png-ec3cffd51d3cf8c1db92e08f2181a79d.ctex"
+path="res://.godot/imported/Off.png-5b7a9fcb60deb52846ab0d6ec38f0223.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Traps/Fire/Off.png"
-dest_files=["res://.godot/imported/Off.png-ec3cffd51d3cf8c1db92e08f2181a79d.ctex"]
+source_file="res://Traps/Fire/Off.png"
+dest_files=["res://.godot/imported/Off.png-5b7a9fcb60deb52846ab0d6ec38f0223.ctex"]
 
 [params]
 

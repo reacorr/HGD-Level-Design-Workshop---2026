@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dije1s83yxd8b"
-path="res://.godot/imported/Achievements.png-55f81bb9ddea92af538b9c87d045b4f1.ctex"
+path="res://.godot/imported/Achievements.png-6f7610bf1b06a0a75b63309070b3cadb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Menu/Buttons/Achievements.png"
-dest_files=["res://.godot/imported/Achievements.png-55f81bb9ddea92af538b9c87d045b4f1.ctex"]
+source_file="res://Menu/Buttons/Achievements.png"
+dest_files=["res://.godot/imported/Achievements.png-6f7610bf1b06a0a75b63309070b3cadb.ctex"]
 
 [params]
 

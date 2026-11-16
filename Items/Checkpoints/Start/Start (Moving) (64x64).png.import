@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvjgf1y4kfeip"
-path="res://.godot/imported/Start (Moving) (64x64).png-efad3aa6c1cfee98e5a3fd44b3906b2b.ctex"
+path="res://.godot/imported/Start (Moving) (64x64).png-313f93c77a05b69ed9e0f88968efe40f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Items/Checkpoints/Start/Start (Moving) (64x64).png"
-dest_files=["res://.godot/imported/Start (Moving) (64x64).png-efad3aa6c1cfee98e5a3fd44b3906b2b.ctex"]
+source_file="res://Items/Checkpoints/Start/Start (Moving) (64x64).png"
+dest_files=["res://.godot/imported/Start (Moving) (64x64).png-313f93c77a05b69ed9e0f88968efe40f.ctex"]
 
 [params]
 

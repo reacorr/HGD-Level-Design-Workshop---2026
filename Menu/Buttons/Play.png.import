@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkovphwyjv8at"
-path="res://.godot/imported/Play.png-49259cc46d497ce7390e66650792b7c4.ctex"
+path="res://.godot/imported/Play.png-ada89a58a34625c320dad21e68eef37d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Menu/Buttons/Play.png"
-dest_files=["res://.godot/imported/Play.png-49259cc46d497ce7390e66650792b7c4.ctex"]
+source_file="res://Menu/Buttons/Play.png"
+dest_files=["res://.godot/imported/Play.png-ada89a58a34625c320dad21e68eef37d.ctex"]
 
 [params]
 

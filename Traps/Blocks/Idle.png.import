@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bn2ahmbtix3v1"
-path="res://.godot/imported/Idle.png-595317172709882fe61c7ce71d359055.ctex"
+path="res://.godot/imported/Idle.png-8ade464cb33605818532c6f9a63180d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Traps/Blocks/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-595317172709882fe61c7ce71d359055.ctex"]
+source_file="res://Traps/Blocks/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-8ade464cb33605818532c6f9a63180d2.ctex"]
 
 [params]
 

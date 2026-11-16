@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://din4i830jnms2"
-path="res://.godot/imported/Hit (32x32).png-3307e957fe821303febbf0c770f77c32.ctex"
+path="res://.godot/imported/Hit (32x32).png-873061165e60da14d45813bdbc3d3a93.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Main Characters/Virtual Guy/Hit (32x32).png"
-dest_files=["res://.godot/imported/Hit (32x32).png-3307e957fe821303febbf0c770f77c32.ctex"]
+source_file="res://Main Characters/Virtual Guy/Hit (32x32).png"
+dest_files=["res://.godot/imported/Hit (32x32).png-873061165e60da14d45813bdbc3d3a93.ctex"]
 
 [params]
 

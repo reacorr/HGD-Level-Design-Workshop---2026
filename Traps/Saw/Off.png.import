@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hugehnevw7gy"
-path="res://.godot/imported/Off.png-7c7520f160b1f09e5a08ed36dc018709.ctex"
+path="res://.godot/imported/Off.png-bc3298c200c124d4bd96c75b4a466e0f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Traps/Saw/Off.png"
-dest_files=["res://.godot/imported/Off.png-7c7520f160b1f09e5a08ed36dc018709.ctex"]
+source_file="res://Traps/Saw/Off.png"
+dest_files=["res://.godot/imported/Off.png-bc3298c200c124d4bd96c75b4a466e0f.ctex"]
 
 [params]
 

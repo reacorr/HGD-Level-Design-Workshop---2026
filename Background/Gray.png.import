@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dckivko4ju7jg"
-path="res://.godot/imported/Gray.png-0efe3d18613fcd323c87187179cc9ef7.ctex"
+path="res://.godot/imported/Gray.png-3be5841d8e291315389ec7edf283af80.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HGD-Level-Design-Workshop---2026/Background/Gray.png"
-dest_files=["res://.godot/imported/Gray.png-0efe3d18613fcd323c87187179cc9ef7.ctex"]
+source_file="res://Background/Gray.png"
+dest_files=["res://.godot/imported/Gray.png-3be5841d8e291315389ec7edf283af80.ctex"]
 
 [params]
 
